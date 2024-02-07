@@ -16,7 +16,7 @@ header {
 
     width: 100vw;
     height: 120vh;
-    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.7)),url(/Netflix/images/home\ page.jpg) ;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.7)),url(/images/home\ page.jpg) ;
     background-size: cover;
 }
 
